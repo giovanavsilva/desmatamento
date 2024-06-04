@@ -1,5 +1,5 @@
 # Desmatamento
-Projeto de Análise Exploratória de Dados sobre Desmatamento no mundo e no Brasil
+Projeto de Análise Exploratória de Dados sobre Desmatamento no mundo e no Brasil.
 
 ## Objetivo 
 Investigar as causas de desmatamento no mundo e, também especificamente, no Brasil, além de compreender possíveis tendências, interpretar correlações e, sobretudo, desenvolver estratégias para redução de prováveis impactos dessas ações.
